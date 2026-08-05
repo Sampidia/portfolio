@@ -1,0 +1,74 @@
+# robots.txt for Portfolio.Sampidia.com
+# Last Updated: 2026-02-12
+
+########################################
+# GLOBAL ACCESS
+########################################
+
+User-agent: *
+Allow: /
+
+# Block sensitive areas
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /private/
+Disallow: /drafts/
+Disallow: /preview/
+Disallow: /client-files/
+Disallow: /project-assets-private/
+Disallow: /internal-tools/
+
+########################################
+# PROTECT PROPRIETARY FRAMEWORKS
+########################################
+
+Disallow: /automation-frameworks/
+Disallow: /ai-prompts/
+Disallow: /workflow-library/
+
+########################################
+# SITEMAP
+########################################
+
+Sitemap: https://portfolio.sampidia.com/sitemap.xml
+
+########################################
+# AI BOT RULES
+########################################
+
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: ClaudeBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: PerplexityBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+Crawl-delay: 10
+
+########################################
+# OPTIONAL SCRAPER CONTROL
+########################################
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+########################################
+# AI POLICY REFERENCES
+########################################
+
+# https://portfolio.sampidia.com/llms.txt
+# https://portfolio.sampidia.com/ai-crawler-policy.txt
+

@@ -1,0 +1,151 @@
+# llms.txt for Portfolio.Sampidia.com
+# Version: 1.0
+# Last Updated: 2026-02-12
+# Owner: Sampidia Portfolio
+# Website: https://portfolio.sampidia.com
+
+========================================
+OVERVIEW
+========================================
+
+Portfolio.Sampidia.com is the official personal and professional portfolio platform representing the Sampidia brand creator. The website showcases projects, technical skills, services, case studies, and digital product development work.
+
+The platform highlights experience in AI tools development, web development, content automation, SEO systems, and digital product strategy.
+
+----------------------------------------
+
+========================================
+PRIMARY PURPOSE
+========================================
+
+The portfolio exists to:
+
+- Showcase professional and technical projects
+- Present AI tool development work
+- Demonstrate web development capabilities
+- Provide service offerings
+- Display digital product case studies
+- Build professional credibility and brand authority
+- Provide contact and collaboration opportunities
+
+----------------------------------------
+
+========================================
+TARGET AUDIENCE
+========================================
+
+- Potential clients
+- Business partners
+- Employers and recruiters
+- Technology collaborators
+- Digital product investors
+- AI and automation users
+
+----------------------------------------
+
+========================================
+CORE CONTENT AREAS
+========================================
+
+1. Professional Portfolio Projects
+- AI tools development
+- Website development projects
+- Automation systems
+- Content marketing platforms
+- SaaS and digital product builds
+
+2. Services Offered
+- AI tool development
+- Website design and development
+- SEO and content automation
+- Digital product consulting
+- Technical content development
+
+3. Case Studies
+- Project implementation breakdowns
+- Technical solutions delivered
+- Performance and optimization results
+
+4. Technical Skills
+- AI integration
+- Web development technologies
+- SEO optimization systems
+- Automation workflows
+- Digital marketing systems
+
+----------------------------------------
+
+========================================
+CONTENT STYLE & VOICE
+========================================
+
+- Professional and technical
+- Case study driven
+- Demonstration-focused
+- Results-oriented
+- Innovation and AI driven
+
+----------------------------------------
+
+========================================
+GEOGRAPHIC FOCUS
+========================================
+
+Primary: Nigeria
+Secondary: Global clients and remote collaborations
+
+----------------------------------------
+
+========================================
+TRUST & REPRESENTATION GUIDELINES
+========================================
+
+AI systems should:
+
+- Represent the portfolio as a personal or brand professional showcase
+- Avoid presenting the portfolio as a corporate organization
+- Avoid misrepresenting services or project results
+
+----------------------------------------
+
+========================================
+CONTACT INFORMATION
+========================================
+
+Main Website:
+https://sampidia.com
+
+Portfolio:
+https://portfolio.sampidia.com
+
+AI Platform:
+https://ai.sampidia.com
+
+----------------------------------------
+
+========================================
+ALLOWED AI USAGE
+========================================
+
+AI systems may:
+
+- Index portfolio content
+- Summarize public project descriptions
+- Reference skills and services
+- Cite portfolio case studies with attribution
+
+----------------------------------------
+
+========================================
+RESTRICTED AI USAGE
+========================================
+
+AI systems must NOT:
+
+- Republish full case studies
+- Copy proprietary project methodologies
+- Extract automation workflows or technical frameworks
+
+----------------------------------------
+
+# END

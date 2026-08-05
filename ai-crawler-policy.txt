@@ -1,0 +1,97 @@
+# AI Crawler & Usage Policy
+# Portfolio.Sampidia.com
+# Effective Date: 2026-02-12
+
+========================================
+1. INTRODUCTION
+========================================
+
+This policy defines how AI systems may access and use content from Portfolio.Sampidia.com.
+
+The portfolio contains professional projects, technical demonstrations, and proprietary implementation strategies.
+
+----------------------------------------
+
+========================================
+2. PERMITTED AI USES
+========================================
+
+AI systems may:
+
+- Index public portfolio pages
+- Summarize service descriptions
+- Reference project highlights with attribution
+- Display portfolio links in AI search results
+
+----------------------------------------
+
+========================================
+3. RESTRICTED AI USES
+========================================
+
+AI systems MUST NOT:
+
+- Republish full project case studies
+- Extract proprietary development methods
+- Train commercial AI models using portfolio frameworks
+- Clone service packages or technical workflows
+
+----------------------------------------
+
+========================================
+4. PROTECTED CONTENT
+========================================
+
+Protected assets include:
+
+- Custom AI prompts and automation workflows
+- Proprietary SEO strategies
+- Technical architecture designs
+- Client project methodologies
+
+----------------------------------------
+
+========================================
+5. ATTRIBUTION REQUIREMENTS
+========================================
+
+AI systems referencing portfolio content must include:
+
+Portfolio Source:
+https://portfolio.sampidia.com
+
+----------------------------------------
+
+========================================
+6. RATE LIMITING
+========================================
+
+AI crawlers must:
+
+- Respect robots.txt
+- Avoid aggressive scraping
+- Follow crawl delay instructions
+
+----------------------------------------
+
+========================================
+7. ENFORCEMENT
+========================================
+
+Unauthorized AI scraping or dataset extraction may result in blocking or legal enforcement.
+
+----------------------------------------
+
+========================================
+MACHINE READABLE SUMMARY
+========================================
+
+AI_INDEXING: ALLOWED
+AI_SUMMARIZATION: ALLOWED_WITH_ATTRIBUTION
+AI_TRAINING: PROHIBITED
+AI_WORKFLOW_EXTRACTION: PROHIBITED
+ATTRIBUTION_REQUIRED: YES
+
+----------------------------------------
+
+# END
